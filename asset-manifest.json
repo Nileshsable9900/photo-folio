@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photo-folio/static/css/main.6afdb1d1.css",
+    "main.js": "/photo-folio/static/js/main.665db87c.js",
+    "static/media/flowers-branches-with-camera-table.jpg": "/photo-folio/static/media/flowers-branches-with-camera-table.b1155e914a68fbc14d97.jpg",
+    "static/media/logo.png": "/photo-folio/static/media/logo.7f2906692629e8629a34.png",
+    "index.html": "/photo-folio/index.html",
+    "main.6afdb1d1.css.map": "/photo-folio/static/css/main.6afdb1d1.css.map",
+    "main.665db87c.js.map": "/photo-folio/static/js/main.665db87c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afdb1d1.css",
+    "static/js/main.665db87c.js"
+  ]
+}
